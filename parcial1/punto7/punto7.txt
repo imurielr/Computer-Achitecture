@@ -1,0 +1,1 @@
+Si no se encriptara con el numero 170 sino con el 450200 no se podria realizar la operacion ya que este numero no se puede representar en los 16 bits que maneja el lenguaje Hack 

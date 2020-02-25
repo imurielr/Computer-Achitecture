@@ -1,0 +1,17 @@
+8
+SP:165
+LCL:263
+ARGS:256
+THIS:0
+THAT:0
+STACK
+256:s
+257:pnumLlave
+258:returnAddress
+259:savedLCL
+260:savedARGS
+261:savedTHIS
+262:savedTHAT
+263:2048
+264:0
+265:

@@ -1,0 +1,4 @@
+1 1 1 a c c c c c c d d d j j j
+1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+
+El valor de a es 1, los valores de c1 a c6 son 111000 y los valores de cada d y j son los establecidos por el lenguaje Hack
